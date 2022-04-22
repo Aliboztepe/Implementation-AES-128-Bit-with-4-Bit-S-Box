@@ -454,10 +454,8 @@ while True:
         print("Time for Decryption :                  " + str(emptyNumberTimerDec) + " Second")
         print("If we convert that to 'Milliesecond' : " + str(millieSecondDec) + " Ms(MillieSecond).")
         
-
     print("Do you want to continue another Encryption and Decryption? - 'For continue press 'y' - For stop press 'n' ")
     endornot = input()
-
 
     if endornot == 'y':
 
